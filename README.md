@@ -2,7 +2,7 @@
 
 ### 🎓 Senior Computer Science Student at UNC Charlotte
 
-I'm a Computer Science Senior seeking opportunities in **IT Engineering**, **Data Center Operations**, **Data Engineering**, and **Full-stack Web Development**. I am passionate about optimizing infrastructure, managing data systems, and solving complex technical challenges.
+I am currently seeking opportunities in **IT Engineering**, **Data Center Operations**, **Data Engineering**, and **Full-stack Web Development**. I am passionate about optimizing infrastructure, managing data systems, and solving complex technical challenges.
 
 - 🔭 Working on **Personal Portfolio & Software Design Capstone Project**
 - 🌱 Learning **IT Project Management & Secure Programming**
@@ -17,12 +17,10 @@ I'm a Computer Science Senior seeking opportunities in **IT Engineering**, **Dat
 
 ---
 
-### 🏆 Achievements
+### 🏆 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mbachel&column=7&margin-w=15&margin-h=15" alt="mbachel trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mbachel&show_icons=true&theme=dark&hide_border=true" alt="Matthew's GitHub Stats" />
 </div>
 
 ---
@@ -32,7 +30,7 @@ I'm a Computer Science Senior seeking opportunities in **IT Engineering**, **Dat
 | **[M62 (Generative AI)](https://github.com/mbachel/M62)** | **[Personal Portfolio](https://github.com/mbachel/mbachel.github.io)** | **[Restaurant Database API](https://github.com/mbachel?tab=repositories)** |
 | :---: | :---: | :---: |
 | Full-stack project exploring recent innovations in GenAI. | My personal website built with Next.js, TypeScript & Tailwind. | A robust REST API for managing restaurant data and operations. |
-| 🔴 **[Live Demo](https://m62.bachelder.me)** | 🔴 **[Live Demo](https://bachelder.me)** | _Backend Project_ |
+| 🔴 **[Live Demo](https://m62.bachelder.me)** | 🔴 **[Live Demo](https://bachelder.me)** | _Demo in Progress_ |
 | `React` `FastAPI` `MongoDB` | `Next.js` `TypeScript` | `Node.js` `Express` `MongoDB` |
 
 ---
