@@ -17,14 +17,6 @@ I am currently seeking opportunities in **IT Engineering**, **Data Center Operat
 
 ---
 
-### ⚡ GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mbachel&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🚀 Featured Projects
 
 | **[M62 (Generative AI)](https://github.com/mbachel/M62)** | **[Personal Portfolio](https://github.com/mbachel/mbachel.github.io)** | **[Restaurant Database API](https://github.com/mbachel?tab=repositories)** |
