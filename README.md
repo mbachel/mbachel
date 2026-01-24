@@ -2,7 +2,7 @@
 
 ### 🎓 Senior Computer Science Student at UNC Charlotte
 
-I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on infrastructure and automation. I manage projects from concept to deployment, taking care of system administration and development tasks. I enjoy building scalable applications and maintaining the systems that support them.
+I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on infrastructure and automation. I currently serve as a **Lab Instructor** for 600+ students while managing full-stack projects from concept to deployment.
 
 - 🚀 Recently completed and shipped **[M62](https://github.com/mbachel/M62)**, a full-stack GenAI analytics platform.
 - 🔭 Working on **Personal Portfolio & Software Design Capstone Project**
@@ -21,7 +21,7 @@ I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on inf
 
 | **[M62 (Generative AI)](https://github.com/mbachel/M62)** | **[Personal Portfolio](https://github.com/mbachel/mbachel.github.io)** | **[Restaurant Database API](https://github.com/mbachel?tab=repositories)** |
 | :---: | :---: | :---: |
-| Production-ready analytics platform with JWT auth, D3.js visualizations, and automated CI/CD. | High-performance personal site built with Next.js, TypeScript, and Tailwind CSS. | Robust REST API for managing restaurant data and operations. |
+| Production-ready microservices platform with OAuth2/JWT and automated CI/CD. | High-performance personal site built with Next.js, TypeScript, and system-aware theming. | Robust REST API for managing restaurant data and operations. |
 | 🔴 **[Live Demo](https://m62.bachelder.me)** | 🔴 **[Live Demo](https://bachelder.me)** | 🚧 **[Demo in Progress](https://github.com/mbachel?tab=repositories)** 🚧 |
 | `React` `FastAPI` `MongoDB` `Docker` `Nginx` `CI/CD` | `Next.js` `TypeScript` `GitHub Actions` | `Python` `SQLAlchemy` `MySQL` |
 
@@ -36,7 +36,7 @@ I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on inf
 
 **Full-Stack Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,python,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,python,java,nodejs,express,mongodb,mysql" />
 </p>
 
 ---
