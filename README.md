@@ -2,11 +2,11 @@
 
 ### 🎓 Senior Computer Science Student at UNC Charlotte
 
-I am currently seeking opportunities in **IT Engineering**, **Data Center Operations**, **Data Engineering**, and **Full-stack Web Development**. I am passionate about optimizing infrastructure, managing data systems, and solving complex technical challenges.
+I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on infrastructure and automation. I manage projects from concept to deployment, taking care of system administration and development tasks. I enjoy building scalable applications and maintaining the systems that support them.
 
+- 🚀 Recently completed and shipped **[M62](https://github.com/mbachel/M62)**, a full-stack GenAI analytics platform.
 - 🔭 Working on **Personal Portfolio & Software Design Capstone Project**
-- 🌱 Learning **IT Project Management & Secure Programming**
-- 🤝 Open to collaborating on **AI-based projects & Website Development**
+- 🌱 Deepening knowledge in **Cloud Infrastructure** and **Secure Programming**.
 - ⚡ Fun fact: I've sailed off the Florida Keys, canoed in the Quetico, and saw Formula 1 in Austin!
 
 <p align="left">
@@ -21,27 +21,22 @@ I am currently seeking opportunities in **IT Engineering**, **Data Center Operat
 
 | **[M62 (Generative AI)](https://github.com/mbachel/M62)** | **[Personal Portfolio](https://github.com/mbachel/mbachel.github.io)** | **[Restaurant Database API](https://github.com/mbachel?tab=repositories)** |
 | :---: | :---: | :---: |
-| Full-stack project exploring recent innovations in GenAI. | My personal website built with Next.js, TypeScript & Tailwind. | A robust REST API for managing restaurant data and operations. |
+| Production-ready analytics platform with JWT auth, D3.js visualizations, and automated CI/CD. | High-performance personal site built with Next.js, TypeScript, and Tailwind CSS. | Robust REST API for managing restaurant data and operations. |
 | 🔴 **[Live Demo](https://m62.bachelder.me)** | 🔴 **[Live Demo](https://bachelder.me)** | 🚧 **[Demo in Progress](https://github.com/mbachel?tab=repositories)** 🚧 |
-| `React` `TypeScript` `FastAPI` `MongoDB` | `Next.js` `TypeScript` `GitHub Actions` | `Python` `SQLAlchemy` `mySQL` |
+| `React` `FastAPI` `MongoDB` `Docker` `Nginx` `CI/CD` | `Next.js` `TypeScript` `GitHub Actions` | `Python` `SQLAlchemy` `MySQL` |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**  
+**Infrastructure & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,angular,d3,chartjs" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,bash" />
 </p>
 
-**Backend**  
+**Full-Stack Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,py,java" />
-</p>
-
-**Database & Cloud**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,nginx,git,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,python,nodejs,express,mongodb,mysql" />
 </p>
 
 ---
