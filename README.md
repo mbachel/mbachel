@@ -2,11 +2,11 @@
 
 ### 🎓 Senior Computer Science Student at UNC Charlotte
 
-I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on infrastructure and automation. I currently serve as a **Lab Instructor** for 600+ students while managing full-stack projects from concept to deployment.
+I am an aspiring DevOps Engineer and Full-Stack Developer focused on infrastructure and automation. I currently serve as a Lab Instructor for 600+ students while managing full-stack projects from concept to deployment.
 
-- 🚀 Recently completed and shipped **[M62](https://github.com/mbachel/M62)**, a full-stack GenAI analytics platform.
-- 🔭 Working on **Personal Portfolio & Software Design Capstone Project**
-- 🌱 Deepening knowledge in **Cloud Infrastructure** and **Secure Programming**.
+- 🚀 Recently completed and shipped [M62](https://github.com/mbachel/M62), a full-stack GenAI analytics platform.
+- 🔭 Working on Personal Website & Software Design Capstone Project
+- 🌱 Deepening knowledge in Cloud Infrastructure and Secure Programming.
 - ⚡ Fun fact: I've sailed off the Florida Keys, canoed in the Quetico, and saw Formula 1 in Austin!
 
 <p align="left">
@@ -19,25 +19,34 @@ I am an aspiring **DevOps Engineer** and **Full-Stack Developer** focused on inf
 
 ### 🚀 Featured Projects
 
-| **[M62 (Generative AI)](https://github.com/mbachel/M62)** | **[Personal Portfolio](https://github.com/mbachel/mbachel.github.io)** | **[Restaurant Database API](https://github.com/mbachel?tab=repositories)** |
-| :---: | :---: | :---: |
-| Production-ready microservices platform with OAuth2/JWT and automated CI/CD. | High-performance personal site built with Next.js, TypeScript, and system-aware theming. | Robust REST API for managing restaurant data and operations. |
-| 🔴 **[Live Demo](https://m62.bachelder.me)** | 🔴 **[Live Demo](https://bachelder.me)** | 🚧 **[Demo in Progress](https://github.com/mbachel?tab=repositories)** 🚧 |
-| `React` `FastAPI` `MongoDB` `Docker` `Nginx` `CI/CD` | `Next.js` `TypeScript` `GitHub Actions` | `Python` `SQLAlchemy` `MySQL` |
+| [M62](https://github.com/mbachel/M62) | [bachelder.me](https://github.com/mbachel/mbachel.github.io) | [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume) | [DivItUp](https://github.com/mbachel/DivItUp) |
+| :---: | :---: | :---: | :---: |
+| Full-stack GenAI analytics platform with LLM benchmarking, JWT auth, and automated CI/CD. | Personal website built with Next.js, TypeScript, and Tailwind CSS with system-aware theming. | Serverless resume on AWS with DynamoDB visitor counter and fully automated CI/CD pipelines. | Household app for splitting expenses and tracking chores, with AI-powered receipt scanning. |
+| 🔴 [Live Demo](https://m62.bachelder.me) | 🔴 [Live Demo](https://bachelder.me) | 🔴 [Live Demo](https://resume.bachelder.me) | 🔴 [Live Demo](https://divitup.org) |
+| `React` `FastAPI` `MongoDB` `Docker` `CI/CD` | `Next.js` `TypeScript` `Tailwind CSS` | `AWS` `Python` `GitHub Actions` | `Next.js` `FastAPI` `MySQL` `Docker` |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Infrastructure & DevOps**
+**Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,linux,git,bash" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,nginx,digitalocean,cloudflare,linux,mongodb,mysql" />
 </p>
 
-**Full-Stack Development**
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,fastapi,python,java,nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,bash" />
 </p>
+
+**Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi" />
+</p>
+<p>SQLAlchemy &nbsp;·&nbsp; pytest</p>
+
+**Certifications**
+<p>TestOut Security Pro (CompTIA) &nbsp;·&nbsp; Python (SoloLearn) &nbsp;·&nbsp; SQL (SoloLearn) &nbsp;·&nbsp; Java Intermediate (SoloLearn)</p>
 
 ---
 
