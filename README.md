@@ -1,53 +1,47 @@
-# Hi 👋, I'm Matthew Bachelder
+# Matthew Bachelder
 
-### 🎓 New Grad Computer Science Student at UNC Charlotte
+**DevOps and cloud · UNC Charlotte CS '26 · Charlotte, NC**
 
-I am a new CS grad from UNC Charlotte with a focus on DevOps and cloud infrastructure. I build real projects in my spare time and I'm looking for my first full-time role.
+I'm a recent computer science grad from UNC Charlotte focused on DevOps and cloud infrastructure. I'm looking for my first full-time role in DevOps, cloud, platform, or SRE, in Charlotte or remote.
 
-- 🚀 Recently completed and shipped my solution to the [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume), a serverless resume site on AWS with a live visitor counter and full CI/CD.
-- 🔭 Currently working on a race analytics dashboard for Formula 1 and NASCAR.
-- 🌱 Studying toward AWS Solutions Architect Associate and exploring Terraform.
-- ⚡ Fun facts: I've sailed off the Florida Keys, canoed in the Quetico, and saw Formula 1 in Austin!
+- **Building:** [Parabolica](https://github.com/mbachel/parabolica), a live and historical race data platform for NASCAR and Formula 1.
+- **Shipped:** my [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume), a serverless resume site on AWS with infrastructure as code and CI/CD.
+- **Learning:** Kubernetes (k3s) on a homelab, more Terraform, and Azure.
+- **Away from the keyboard:** I've sailed off the Florida Keys, canoed the Quetico, and watched Formula 1 in Austin.
 
-<p align="left">
-  <a href="https://bachelder.me" target="_blank">💻 <b>Personal Website</b></a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/matthewbachelder" target="_blank">👔 <b>LinkedIn</b></a> &nbsp;|&nbsp;
-  <a href="mailto:matthew@bachelder.me">📧 <b>Email</b></a>
-</p>
+[Website](https://bachelder.me) · [LinkedIn](https://linkedin.com/in/matthewbachelder) · [Email](mailto:matthew@bachelder.me)
 
 ---
 
-### 🚀 Featured Projects
+### Featured projects
 
-| [M62](https://github.com/mbachel/M62) | [Personal Website](https://github.com/mbachel/mbachel.github.io) | [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume) | [DivItUp](https://github.com/mbachel/DivItUp) |
+| [Parabolica](https://github.com/mbachel/parabolica) | [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume) | [DivItUp](https://github.com/mbachel/DivItUp) | [Personal Website](https://github.com/mbachel/mbachel.github.io) |
 | :---: | :---: | :---: | :---: |
-| Full-stack GenAI analytics platform with LLM benchmarking, JWT auth, and automated CI/CD pipelines. | Personal website built with Next.js, TypeScript, and Tailwind CSS with system-aware theming. | Serverless resume on AWS with DynamoDB visitor counter and automated CI/CD pipelines. | Household app for splitting expenses and tracking chores, with AI-powered receipt scanning. |
-| 🔴 [Live Demo](https://m62.bachelder.me) | 🔴 [Live Demo](https://bachelder.me) | 🔴 [Live Demo](https://resume.bachelder.me) | 🔴 [Live Demo](https://divitup.org) |
-| `React` `FastAPI` `MongoDB` `Docker` `CI/CD` | `Next.js` `TypeScript` `Tailwind CSS` | `AWS` `Python` `GitHub Actions` | `Next.js` `FastAPI` `MySQL` `Docker` |
+| Race data platform for NASCAR and Formula 1. A .NET background service polls live NASCAR feeds into PostgreSQL; F1 is in progress. Built with a partner. | Serverless resume on AWS with a DynamoDB visitor counter. Terraform and SAM define the infrastructure; GitHub Actions tests and deploys it. | Household app for splitting expenses and tracking chores. I was the sole DevOps engineer on a 4-person team, owning containers, hosting, and releases. | Personal site with system-aware light and dark themes, deployed through GitHub Actions. |
+| In development · [parabolica.dev](https://parabolica.dev) | Live · [resume.bachelder.me](https://resume.bachelder.me) | Team project, Jan to May 2026 | Live · [bachelder.me](https://bachelder.me) |
+| `C#` `ASP.NET Core` `PostgreSQL` `Next.js` `Docker` | `AWS` `Terraform` `Python` `GitHub Actions` | `Docker` `Nginx` `Next.js` `FastAPI` `MySQL` | `Next.js` `TypeScript` `Tailwind CSS` |
 
 ---
 
-### 🛠️ Tech Stack
+### Tech stack
 
 **Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,nginx,cloudflare,linux,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,git,nginx,cloudflare,linux,postgres,mongodb,mysql" alt="AWS, Terraform, Docker, GitHub Actions, Git, Nginx, Cloudflare, Linux, PostgreSQL, MongoDB, MySQL" />
 </p>
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,bash" />
+  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css,bash" alt="Python, C#, TypeScript, JavaScript, HTML, CSS, Bash" />
 </p>
 
 **Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nextjs,react,fastapi" alt=".NET, Next.js, React, FastAPI" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbachel&theme=react-dark" alt="Matthew's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbachel&theme=react-dark" alt="Matthew's GitHub activity graph" />
 </div>
