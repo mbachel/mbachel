@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=170&section=header&fontColor=ffffff&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:409ba5&height=170&section=header&fontColor=1f2328&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C100:409ba5&height=170&section=header&fontColor=ffffff&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C100:409ba5&height=170&section=header&fontColor=1f2328&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte" />
 </picture>
 
 <div align="center">
@@ -64,6 +64,6 @@ I'm a recent computer science grad from UNC Charlotte with a concentration in IT
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=90&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:409ba5&height=90&section=footer" width="100%" alt="" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117%2C100:409ba5&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff%2C100:409ba5&height=90&section=footer" width="100%" alt="" />
 </picture>
