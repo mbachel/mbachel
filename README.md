@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=170&section=header&text=Matthew%20Bachelder&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20and%20cloud%20%C2%B7%20UNC%20Charlotte%20CS%20%2726&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte CS '26" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=409BA5&center=true&vCenter=true&width=640&lines=DevOps+and+cloud+infrastructure;Building+Parabolica%2C+a+race+data+platform;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+GitHub+Actions" alt="DevOps and cloud infrastructure. Building Parabolica, a race data platform. AWS, Terraform, Docker, GitHub Actions." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=409BA5&center=true&vCenter=true&width=640&lines=DevOps+and+cloud+infrastructure;Building+Parabolica%2C+a+race+data+platform;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+GitHub+Actions" alt="DevOps and cloud infrastructure. Building Parabolica, a race data platform. AWS, Python, Docker, TypeScript." />
 </div>
 
 I'm a recent computer science grad from UNC Charlotte with a concentration in IT learning DevOps and cloud infrastructure. I'm looking for my first full-time role in DevOps, cloud, platform, or SRE, in Charlotte or remote.
