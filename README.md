@@ -1,8 +1,10 @@
-# Matthew Bachelder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=170&section=header&text=Matthew%20Bachelder&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20and%20cloud%20%C2%B7%20UNC%20Charlotte%20CS%20%2726&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte CS '26" />
 
-**DevOps and cloud · UNC Charlotte CS '26 · Charlotte, NC**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=409BA5&center=true&vCenter=true&width=640&lines=DevOps+and+cloud+infrastructure;Building+Parabolica%2C+a+race+data+platform;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+GitHub+Actions" alt="DevOps and cloud infrastructure. Building Parabolica, a race data platform. AWS, Terraform, Docker, GitHub Actions." />
+</div>
 
-I'm a recent computer science grad from UNC Charlotte focused on DevOps and cloud infrastructure. I'm looking for my first full-time role in DevOps, cloud, platform, or SRE, in Charlotte or remote.
+I'm a recent computer science grad from UNC Charlotte with a concentration in IT learning DevOps and cloud infrastructure. I'm looking for my first full-time role in DevOps, cloud, platform, or SRE, in Charlotte or remote.
 
 - **Building:** [Parabolica](https://github.com/mbachel/parabolica), a live and historical race data platform for NASCAR and Formula 1.
 - **Shipped:** my [Cloud Resume Challenge](https://github.com/mbachel/cloud-resume), a serverless resume site on AWS with infrastructure as code and CI/CD.
@@ -43,5 +45,15 @@ I'm a recent computer science grad from UNC Charlotte focused on DevOps and clou
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mbachel&theme=react-dark" alt="Matthew's GitHub activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbachel&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mbachel&theme=github" alt="Matthew's GitHub contributions over the last year" />
+  </picture>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mbachel&hide=g-code&langs_count=8&layout=compact&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mbachel&hide=g-code&langs_count=8&layout=compact&theme=default" alt="Matthew's most used languages on GitHub" />
+  </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=90&section=footer" width="100%" alt="" />
