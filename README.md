@@ -1,7 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=170&section=header&text=Matthew%20Bachelder&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=DevOps%20and%20cloud%20%C2%B7%20UNC%20Charlotte%20CS%20%2726&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte CS '26" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=170&section=header&fontColor=ffffff&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:409ba5&height=170&section=header&fontColor=1f2328&text=Matthew%20Bachelder&fontSize=42&fontAlignY=35&desc=DevOps%20and%20Cloud%20%C2%B7%20UNC%20Charlotte&descAlignY=56&descSize=17" width="100%" alt="Matthew Bachelder: DevOps and Cloud, UNC Charlotte" />
+</picture>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=409BA5&center=true&vCenter=true&width=640&lines=DevOps+and+cloud+infrastructure;Building+Parabolica%2C+a+race+data+platform;AWS+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+GitHub+Actions" alt="DevOps and cloud infrastructure. Building Parabolica, a race data platform. AWS, Python, Docker, TypeScript." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=409BA5&center=true&vCenter=true&width=640&lines=DevOps+and+cloud+infrastructure;Building+Parabolica%2C+a+race+data+platform;AWS+%C2%B7+Python+%C2%B7+Docker+%C2%B7+TypeScript" alt="DevOps and cloud infrastructure. Building Parabolica, a race data platform. AWS, Python, Docker, TypeScript." />
 </div>
 
 I'm a recent computer science grad from UNC Charlotte with a concentration in IT learning DevOps and cloud infrastructure. I'm looking for my first full-time role in DevOps, cloud, platform, or SRE, in Charlotte or remote.
@@ -11,7 +14,11 @@ I'm a recent computer science grad from UNC Charlotte with a concentration in IT
 - **Learning:** Kubernetes (k3s) on a homelab, more Terraform, and Azure.
 - **Away from the keyboard:** I've sailed off the Florida Keys, canoed the Quetico, and watched Formula 1 in Austin.
 
-[Website](https://bachelder.me) · [LinkedIn](https://linkedin.com/in/matthewbachelder) · [Email](mailto:matthew@bachelder.me)
+<h3 align="center">
+  <a href="https://bachelder.me">Website</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/matthewbachelder">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:matthew@bachelder.me">Email</a>
+</h3>
 
 ---
 
@@ -56,4 +63,7 @@ I'm a recent computer science grad from UNC Charlotte with a concentration in IT
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=90&section=footer" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:409ba5&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:409ba5&height=90&section=footer" width="100%" alt="" />
+</picture>
